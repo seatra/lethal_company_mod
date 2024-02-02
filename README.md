@@ -4,7 +4,7 @@ Lethal Company用のmod保存リポジトリ。
 mod導入方法は以下の通り。
 
 step1 BepInEx
-BepInEx.zipを解答し、中身をすべてリーサルカンパニーのファイルに入れる
+BepInExフォルダの中身をすべてリーサルカンパニーのファイルに入れる
 \SteamLibrary\steamapps\common\Lethal Company(環境によって変わるがSteamLibraryを見つければいい)
 
 終了後、Leathal Companyを起動し終了させる。
